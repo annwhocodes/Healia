@@ -1,5 +1,5 @@
 # HEALIA: AI-Powered Patient Intake System
-![image](https://github.com/user-attachments/assets/34439661-ae84-4053-b4a7-0297a0258497)
+![Image](https://github.com/user-attachments/assets/d47b0051-b75f-4a9c-b6e1-e53b76625701)
 
 ## Project Overview
 
