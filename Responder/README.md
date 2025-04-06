@@ -1,9 +1,9 @@
-# Build4Good 2025: AI-Powered Patient Intake System
+# HEALIA: AI-Powered Patient Intake System
 ![image](https://github.com/user-attachments/assets/34439661-ae84-4053-b4a7-0297a0258497)
 
 ## Project Overview
 
-This project, developed for the Build4Good 2025 Hackathon, aims to streamline the patient intake process in hospitals by leveraging an AI-powered voice bot. It provides a conversational interface for patients arriving to describe their health concerns. The AI bot conducts a structured question-and-answer session, maintains a history of the conversation, and generates a concise summary. This summary, along with the patient's information and visit date, is then automatically added to a Notion database accessible by the doctor.
+This project, aims to streamline the patient intake process in hospitals by leveraging an AI-powered voice bot. It provides a conversational interface for patients arriving to describe their health concerns. The AI bot conducts a structured question-and-answer session, maintains a history of the conversation, and generates a concise summary. This summary, along with the patient's information and visit date, is then automatically added to a Notion database accessible by the doctor.
 
 **Key Features:**
 
@@ -45,7 +45,7 @@ Hospitals often face challenges managing walk-in patients, leading to long wait 
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/reddheeraj/Responder.git
+    git clone https://github.com/annwhocodes/Healia.git
     cd Responder
     ```
 
